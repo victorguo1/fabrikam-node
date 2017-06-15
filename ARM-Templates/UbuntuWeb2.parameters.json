@@ -33,7 +33,7 @@
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/expressmongorweb2"
+            "value": "Microsoft.Storage/storageAccounts/expressmongoweb2"
         },
         "addressPrefix": {
             "value": "172.16.8.0/24"
