@@ -1,1 +1,1 @@
-echo "Hello World" && sudo apt-get update && sudo apt-get -y upgrade && echo "Hello World 1" curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash - && sudo apt-get install -y nodejs echo "Hello World 2"
+echo "Hello World" && sudo apt-get update && sudo apt-get -y upgrade && echo "Hello World 1" && curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash - && sudo apt-get install -y nodejs && echo "Hello World 2"
