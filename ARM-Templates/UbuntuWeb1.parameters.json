@@ -6,7 +6,7 @@
             "value": "southindia"
         },
         "virtualMachineName": {
-            "value": "express-mongo-web1-server"
+            "value": "fabricam-node-websvr1"
         },
         "virtualMachineSize": {
             "value": "Standard_DS1_v2"
@@ -15,25 +15,25 @@
             "value": "atulm"
         },
         "virtualNetworkName": {
-            "value": "express-mongo-web1-rg-vnet"
+            "value": "fabricam-node-rg-vnet"
         },
         "networkInterfaceName": {
-            "value": "express-mongo-web1"
+            "value": "fabricam-node-websvr1"
         },
         "networkSecurityGroupName": {
-            "value": "express-mongo-web1-server-nsg"
+            "value": "fabricam-node-websvr1-nsg"
         },
         "adminPassword": {
             "value": null
         },
         "diagnosticsStorageAccountName": {
-            "value": "expressmongorweb1"
+            "value": "fabricamnodewebsvr1"
         },
         "diagnosticsStorageAccountType": {
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/expressmongoweb1"
+            "value": "Microsoft.Storage/storageAccounts/fabricamnodewebsvr1"
         },
         "addressPrefix": {
             "value": "172.16.8.0/24"
@@ -45,7 +45,7 @@
             "value": "172.16.8.0/24"
         },
         "publicIpAddressName": {
-            "value": "express-mongo-web1-server-ip"
+            "value": "fabricam-node-websvr1-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
