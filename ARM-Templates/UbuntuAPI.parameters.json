@@ -6,7 +6,7 @@
             "value": "southindia"
         },
         "virtualMachineName": {
-            "value": "fabrikam-node-websvr1"
+            "value": "fabrikam-node-apisvr1"
         },
         "virtualMachineSize": {
             "value": "Standard_DS1_v2"
@@ -18,22 +18,22 @@
             "value": "fabrikam-node-rg-vnet"
         },
         "networkInterfaceName": {
-            "value": "fabrikam-node-websvr1"
+            "value": "fabrikam-node-apisvr1"
         },
         "networkSecurityGroupName": {
-            "value": "fabrikam-node-websvr1-nsg"
+            "value": "fabrikam-node-apisvr1-nsg"
         },
         "adminPassword": {
             "value": null
         },
         "diagnosticsStorageAccountName": {
-            "value": "fabrikamnodewebsvr1"
+            "value": "fabrikamnodeapisvr1"
         },
         "diagnosticsStorageAccountType": {
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/fabrikamnodewebsvr1"
+            "value": "Microsoft.Storage/storageAccounts/fabrikamnodeapisvr1"
         },
         "addressPrefix": {
             "value": "172.16.8.0/24"
@@ -45,7 +45,7 @@
             "value": "172.16.8.0/24"
         },
         "publicIpAddressName": {
-            "value": "fabrikam-node-websvr1-ip"
+            "value": "fabrikam-node-apisvr1-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"

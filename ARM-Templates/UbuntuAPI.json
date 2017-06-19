@@ -62,7 +62,7 @@
             "apiVersion": "2016-04-30-preview",
             "location": "[parameters('location')]",
           "tags": {
-          "displayName": "web"
+          "displayName": "api"
           },
             "dependsOn": [
                 "[concat('Microsoft.Network/networkInterfaces/', parameters('networkInterfaceName'))]",
